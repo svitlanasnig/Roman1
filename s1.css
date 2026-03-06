@@ -1,0 +1,133 @@
+header{
+    
+/* Frame 2 */
+
+position: relative;
+width: 1089px;
+height: 99px;
+
+background: #000DFF;
+
+}
+
+
+main{
+  /* Frame 1 */
+
+position: relative;
+width: 1089px;
+height: 661.76px;
+
+background: url(original-t1672827981-r1w768h425q90zc1.jpg);
+transform: rotate(-0.34deg);
+  
+    
+}
+.t1{
+    /* museum jellyfish */
+
+position: absolute;
+width: 351px;
+height: 39px;
+left: 9px;
+top: 28px;
+
+font-family: 'Gruppo';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 39px;
+/* identical to box height */
+
+color: #000000;
+
+
+}
+.img1{
+    /* Rectangle 1 */
+
+position: absolute;
+width: 87px;
+height: 99px;
+left: 441px;
+top: 0px;
+
+background: url(beautiful-jellyfish-swimming-ocean_23-2150720184.png);
+}
+.t2{
+    /* suvenir */
+
+position: absolute;
+width: 156px;
+height: 39px;
+left: 933px;
+top: 24px;
+
+font-family: 'Gruppo';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 39px;
+/* identical to box height */
+
+color: #000000;
+
+
+}
+.t3{
+/* Завітай у музей медуз */
+/* Завітай у музей медуз */
+
+position: absolute;
+width: 535px;
+height: 48px;
+left: 314.62px;
+top: 106.43px;
+
+font-family: 'Gruppo';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 48px;
+
+color:#fc03b1 ;
+background-color:#e8e156;
+
+border: 1px solid #1A1818;
+transform: rotate(-0.34deg);
+
+
+}
+
+.t4{
+    /* buy tickets */
+
+position: absolute;
+width: 321px;
+height: 62px;
+left: 376.81px;
+top: 307.33px;
+
+font-family: 'Gruppo';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 62px;
+/* identical to box height */
+
+color: #04FF00;
+
+border: 1px solid #000000;
+transform: rotate(-0.34deg);
+background-color:black;
+
+}
+footer{
+    
+
+
+}
+
+
+
+
