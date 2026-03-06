@@ -1,0 +1,74 @@
+header{
+    
+/* Frame 2 */
+
+position: relative;
+width: 1089px;
+height: 99px;
+
+background: #000DFF;
+
+}
+.img1{
+    /* Rectangle 1 */
+
+position: absolute;
+width: 87px;
+height: 99px;
+left: 441px;
+top: 0px;
+
+background: url(beautiful-jellyfish-swimming-ocean_23-2150720184.png);
+
+}
+.t1{
+    /* museum jellyfish */
+
+position: absolute;
+width: 351px;
+height: 39px;
+left: 9px;
+top: 28px;
+
+font-family: 'Gruppo';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 39px;
+/* identical to box height */
+
+color: #000000;
+
+
+}
+.img1{
+    /* Rectangle 1 */
+
+position: absolute;
+width: 87px;
+height: 99px;
+left: 441px;
+top: 0px;
+
+background: url(beautiful-jellyfish-swimming-ocean_23-2150720184.png);
+}
+.t2{
+    /* suvenir */
+
+position: absolute;
+width: 156px;
+height: 39px;
+left: 933px;
+top: 24px;
+
+font-family: 'Gruppo';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 39px;
+/* identical to box height */
+
+color: #000000;
+
+
+}
